@@ -2,4 +2,4 @@
 
 - I am a 🐍 python developer with network experience.
 - 📧 Email: admin@paradox.ovh
-- 🍆 Website: https://paradox.ovh
+- Website: https://paradox.ovh
