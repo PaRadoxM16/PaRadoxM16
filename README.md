@@ -3,7 +3,7 @@
 ![Paradox's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaRadoxM16&theme=tokyonight)
 ![Paradox's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PaRadoxM16&theme=tokyonight)
 
-- 🐍, Node.js, and learning Go
+- 🐍, Node.js, and Go
 - Discord: paradox#2281
 - Website: https://paradox.ovh
 
